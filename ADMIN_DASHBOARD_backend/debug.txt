@@ -1,0 +1,22 @@
+Array
+(
+    [name] => ee
+    [description] => ee
+    [price] => 22
+    [category] => grains
+    [stock] => 22
+)
+
+Array
+(
+    [image] => Array
+        (
+            [name] => delopsema.png
+            [full_path] => delopsema.png
+            [type] => image/png
+            [tmp_name] => C:\xampp\tmp\php326E.tmp
+            [error] => 0
+            [size] => 846786
+        )
+
+)

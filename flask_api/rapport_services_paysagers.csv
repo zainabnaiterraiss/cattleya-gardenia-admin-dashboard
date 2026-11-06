@@ -1,0 +1,28 @@
+﻿idDemande,idClient,nom_Client,prenom_Client,email_Client,telephone_Client,ville,type_service,type_espace,etat_espace,condition_meteo,temperature,pluie,vent,faisable_pred
+92,11,Bernard,Lucas,lucas.bernard@example.com,0645678901,Marrakech,Arrosage automatique,Espace commercial,Peu entretenu,sec,29.04,0.0,5.5440000000000005,Oui
+93,12,Petit,Chloé,chloe.petit@example.com,0656789012,Fès,Traitement phytosanitaire,Jardin privé,Abandon,sec,31.14,0.0,11.124,Oui
+94,13,Robert,Nathan,nathan.robert@example.com,0667890123,Agadir,Entretien général,Parc public,Bien entretenu,sec,20.25,0.0,5.832000000000001,Oui
+95,14,Richard,Sophie,sophie.richard@example.com,0678901234,Tangier,Aménagement paysager,Espace commercial,Moyennement entretenu,pluie,25.64,0.22,16.668,Non
+96,15,Moreau,Léo,leo.moreau@example.com,0689012345,Meknès,Arrosage automatique,Jardin privé,Peu entretenu,sec,28.18,0.0,11.124,Oui
+97,16,Laurent,Camille,camille.laurent@example.com,0690123456,Oujda,Traitement phytosanitaire,Parc public,Abandon,sec,25.35,0.0,11.124,Oui
+98,17,Simon,Thomas,thomas.simon@example.com,0611223344,Kenitra,Entretien général,Espace commercial,Bien entretenu,sec,22.42,0.0,3.9960000000000004,Oui
+99,18,Michel,Clara,clara.michel@example.com,0622334455,Taza,Aménagement paysager,Jardin privé,Moyennement entretenu,sec,27.38,0.0,10.296,Oui
+100,19,Garcia,Julien,julien.garcia@example.com,0633445566,El Jadida,Arrosage automatique,Parc public,Peu entretenu,sec,21.06,0.0,13.284,Oui
+101,20,David,Manon,manon.david@example.com,0644556677,Safi,Traitement phytosanitaire,Espace commercial,Abandon,sec,23.23,0.0,7.092,Oui
+102,21,Bertrand,Axel,axel.bertrand@example.com,0655667788,Beni Mellal,Entretien général,Jardin privé,Bien entretenu,sec,28.75,0.0,12.888,Oui
+103,22,Roux,Lucie,lucie.roux@example.com,0666778899,Khouribga,Aménagement paysager,Parc public,Moyennement entretenu,vent,26.14,0.0,34.92,Non
+104,23,Vincent,Hugo,hugo.vincent@example.com,0677889900,Settat,Arrosage automatique,Espace commercial,Peu entretenu,sec,27.71,0.0,1.9440000000000002,Oui
+105,24,Fournier,Julie,julie.fournier@example.com,0688990011,El Kelaa des Sraghna,Traitement phytosanitaire,Jardin privé,Abandon,sec,28.94,0.0,9.54,Oui
+106,25,Lopez,Maxime,maxime.lopez@example.com,0699001122,Marrakech,Entretien général,Parc public,Bien entretenu,sec,29.04,0.0,5.5440000000000005,Oui
+107,9,Durand,Marc,erraszainab@gmail.com,0623456789,Casablanca,Aménagement paysager,Espace commercial,Moyennement entretenu,sec,22.96,0.0,14.472,Oui
+108,10,Dubois,Emma,erraisszainab@gmail.com,0634567890,Rabat,Arrosage automatique,Jardin privé,Peu entretenu,sec,22.04,0.0,9.251999999999999,Oui
+109,11,Bernard,Lucas,lucas.bernard@example.com,0645678901,Fès,Traitement phytosanitaire,Parc public,Abandon,sec,31.14,0.0,11.124,Oui
+110,12,Petit,Chloé,chloe.petit@example.com,0656789012,Agadir,Entretien général,Espace commercial,Bien entretenu,sec,20.25,0.0,5.832000000000001,Oui
+111,13,Robert,Nathan,nathan.robert@example.com,0667890123,Tangier,Aménagement paysager,Jardin privé,Moyennement entretenu,pluie,25.64,0.22,16.668,Non
+112,14,Richard,Sophie,sophie.richard@example.com,0678901234,Meknès,Arrosage automatique,Parc public,Peu entretenu,sec,28.18,0.0,11.124,Oui
+113,15,Moreau,Léo,leo.moreau@example.com,0689012345,Oujda,Traitement phytosanitaire,Espace commercial,Abandon,sec,25.35,0.0,11.124,Oui
+114,16,Laurent,Camille,camille.laurent@example.com,0690123456,Kenitra,Entretien général,Jardin privé,Bien entretenu,sec,22.42,0.0,3.9960000000000004,Oui
+115,17,Simon,Thomas,thomas.simon@example.com,0611223344,Taza,Aménagement paysager,Parc public,Moyennement entretenu,sec,27.38,0.0,10.296,Oui
+116,18,Michel,Clara,clara.michel@example.com,0622334455,El Jadida,Arrosage automatique,Espace commercial,Peu entretenu,sec,21.06,0.0,13.284,Oui
+117,19,Garcia,Julien,julien.garcia@example.com,0633445566,Safi,Traitement phytosanitaire,Jardin privé,Abandon,sec,23.23,0.0,7.092,Oui
+118,20,David,Manon,manon.david@example.com,0644556677,Beni Mellal,Entretien général,Parc public,Bien entretenu,sec,28.75,0.0,12.888,Oui

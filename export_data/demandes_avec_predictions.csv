@@ -1,0 +1,14 @@
+idDemande,idClient,idService,etat,condition_meteo,temperature,pluie,faisable,date_demande,type_service,frequence,superficie,type_espace,etat_espace,plantes_presentes,travaux_specifiques,ville,nom_Client,prenom_Client,email_Client,telephone_Client,adresse_Client,faisable_pred
+1,35,1,En cours,0,20.0,0.0,1,2025-05-09,1,Hebdomadaire,100 - 500 m²,1,6,"Fleurs, Arbustes, Haies, Potager","Désherbage, Arrosage",agadir,nait erraiss,zainab,zainabnaiterraiss@gmail.com,0626746237,ait melloul,1
+2,16,1,En cours,1,22.0,0.0,1,2024-05-15,4,Hebdomadaire,50-100 m²,1,1,"Fleurs, Arbustes",Taille haies,Casablanca,Laurent,Camille,camille.laurent@example.com,0690123456,"12 rue Nationale, Nantes",1
+4,16,1,En cours,1,22.0,0.0,1,2024-05-15,4,Hebdomadaire,50-100 m²,1,1,"Fleurs, Arbustes",Taille haies,Casablanca,Laurent,Camille,camille.laurent@example.com,0690123456,"12 rue Nationale, Nantes",1
+6,18,1,En cours,4,15.0,5.0,0,2024-05-17,2,Quotidien,100-500 m²,2,5,"Arbres, Pelouse",Systeme irrigation,Marrakech,Michel,Clara,clara.michel@example.com,0622334455,"9 rue Victor Hugo, Grenoble",0
+7,16,1,En cours,1,22.0,0.0,1,2024-05-15,4,Hebdomadaire,50-100 m²,1,1,"Fleurs, Arbustes",Taille haies,Casablanca,Laurent,Camille,camille.laurent@example.com,0690123456,"12 rue Nationale, Nantes",1
+8,17,1,En attente,2,18.0,0.0,1,2024-05-16,0,Ponctuel,20-50 m²,3,0,Plantes en pot,Installation mobilier,Rabat,Simon,Thomas,thomas.simon@example.com,0611223344,"45 rue du Faubourg, Strasbourg",1
+9,18,1,En cours,4,15.0,5.0,0,2024-05-17,2,Quotidien,100-500 m²,2,5,"Arbres, Pelouse",Systeme irrigation,Marrakech,Michel,Clara,clara.michel@example.com,0622334455,"9 rue Victor Hugo, Grenoble",0
+10,19,1,Terminé,1,30.0,0.0,1,2024-05-14,5,Mensuel,50-100 m²,1,4,"Fruits, Legumes",Anti-parasitaire,Agadir,Garcia,Julien,julien.garcia@example.com,0633445566,"33 rue Alsace, Dijon",1
+11,20,1,Annulé,6,25.0,0.0,0,2024-05-18,0,Ponctuel,5-20 m²,0,7,Plantes grimpantes,Support mural,Tanger,David,Manon,manon.david@example.com,0644556677,"17 rue de Metz, Rennes",1
+12,21,1,En cours,1,20.0,0.0,1,2024-05-19,4,Hebdomadaire,100-500 m²,1,9,"Haies, Fleurs, Arbres","Tonte, Taille",Fes,Bertrand,Axel,axel.bertrand@example.com,0655667788,"19 rue Lafayette, Le Havre",1
+13,22,1,En attente,3,22.0,2.0,1,2024-05-20,4,Mensuel,20-50 m²,3,8,Plantes en pot,Lavage sol,Meknes,Roux,Lucie,lucie.roux@example.com,0666778899,"22 avenue République, Reims",1
+14,23,1,En cours,1,18.0,0.0,1,2024-05-21,3,Trimestriel,500-1000 m²,2,2,Divers arbres,Diagnostic sante,Oujda,Vincent,Hugo,hugo.vincent@example.com,0677889900,"40 rue de Lille, Montpellier",1
+15,24,1,Urgent,5,17.0,15.0,0,2024-05-22,4,Ponctuel,50-100 m²,1,3,"Haies, Pelouse",Debroussaillage,Tetouan,Fournier,Julie,julie.fournier@example.com,0688990011,"11 rue des Acacias, Nancy",0
